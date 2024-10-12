@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name":"story book",
+        "title":"Lorem , ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"public/banner.png"
+    },
+    {
+        "id": 2,
+        "name":"comedy book",
+        "title":"Lorem , ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"public/banner.png"
+    },
+    {
+        "id": 3,
+        "name":"beet book",
+        "title":"Lorem , ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"public/banner.png"
+    },
+    {
+        "id": 4,
+        "name":"rtu book",
+        "title":"Lorem , ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"public/banner.png"
+    },
+    {
+        "id": 5,
+        "name":"story book",
+        "title":"Lorem , ipsum dolor sit amet consectetur",
+        "price":0,
+        "category":"Free",
+        "image":"public/banner.png"
+    }
+]

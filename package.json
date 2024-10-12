@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "daisyui": "^4.12.12"
+  },
+  "dependencies": {
+    "react-hook-form": "^7.53.0"
+  }
+}
